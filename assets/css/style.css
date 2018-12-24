@@ -1,0 +1,137 @@
+.team,.map,.contact-form,.about,.services{
+	padding: 5em 0;
+}
+div#team {
+    background: #171616;
+}
+.team .social-icon {
+    margin: 1em 0 0;
+}
+.team span,h3.wthree_head.two  span {
+    color: #fff;
+}
+.team .w3l_header{
+    font-size: 50px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+}
+.team .footericons li a span.fa {
+    color: #000;
+    font-size: 15px;
+}
+.team, .map, .contact-form, .about, .services, .footer-top {
+		padding: 3.5em 0;
+	}
+.team .w3l_header,.agile_testimonials h3.head{
+		font-size: 40px;
+	}
+.team, .map, .contact-form, .about, .services, .footer-top {
+		padding: 2em 0;
+	}
+.team .w3l_header, .agile_testimonials h3.head {
+		font-size: 35px;
+	}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.agileits_team_grid_figure img {
+    border: 5px solid #fff;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: 0 auto;
+    text-align: center;
+	width: 160px;
+	height: 160px;
+}
+.w3l_header span {
+    color: #00acee;
+    font-weight: 700;
+}
+.w3l_header:after {
+    border-top: 2px solid #f0b50a;
+    display: block;
+    width: 81px;
+    content: "";
+    margin: 8px auto 0;
+}
+.w3l_header {
+    font-size: 45px;
+    color: #262c38;
+    letter-spacing: 0px;
+    position: relative;
+    text-align: center;
+}
+.w3l_header ,.team .w3l_header,.agile_testimonials h3.head{
+		font-size: 40px;
+	}
+	.w3_agile_banner_info {
+		margin: 7em 6em 0;
+	}
+	.w3_agile_banner_info h2, .w3_agile_banner_info h3 {
+		font-size: 3.5em;
+	}
+	.agileinfo-dot, .agile-dot, .banner {
+		min-height: 630px;
+	}
+	.aboutgrids p {
+		font-size: 13px;
+	}
+	.aboutgrids h4 {
+		font-size: 20px;
+	}
+	.slider-info ,.slider-info1, .slider-info2, .slider-info3 {
+		min-height: 300px;
+	}
+	
+	.w3l_header, .team .w3l_header, .agile_testimonials h3.head {
+		font-size: 33px;
+	}
+.agileits_team_grids,.w3l_gallery_grids,.w3_testimonials_grids,.w3layouts_mail_grids,.map iframe,.contact-form form,.aboutgrids{
+	margin:3em 0 0;
+}
+.agileits_team_grid h4{
+	font-size : 1.5em;
+	color : #00acee;
+	margin : .5em 0;
+}
+.agileits_team_grid h4 span{
+	font-size:.7em;
+	color:#fff;
+}
+.agileits_team_grid p{
+	color:#eee;
+	line-height:2em;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.team .social-icon {
+    margin: 1em 0 0;
+}
+.agileits_team_grids,.w3l_gallery_grids,.w3_testimonials_grids,.w3layouts_mail_grids,.map iframe,.contact-form form,.aboutgrids{
+	margin:3em 0 0;
+}
+.agileits_team_grid {
+    background: rgba(16, 16, 16, 0.48);
+    background: transparent;
+    text-align: center;
+    width: 30%;
+    margin-right: 5%;
+    padding: 2em 1em;
+    border: 2px solid #999;
+    border-bottom: 10px solid #f0b500;
+}
+.agileits_team_grid:nth-child(3) {
+    margin-right: 0%;
+}
+.team span,h3.wthree_head.two  span {
+    color: #fff;
+}
+h3.wthree_head.two {
+    color: #fff;
